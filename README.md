@@ -1,2 +1,2 @@
-# gupaoedu-vip-thread
-学习分布式与高并发
+# gupaoedu-vip-mybatis
+学习mybatis
